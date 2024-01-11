@@ -1,0 +1,3 @@
+1,Malini,Class 1A
+2,Shailaja,Class 2B
+3,Aditya,Class 3C
